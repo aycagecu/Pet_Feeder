@@ -1,5 +1,6 @@
 #include <ESP8266Webhook.h>
 #include <ESP8266WiFi.h>
+#include "ThingSpeak.h"
 #include "HX711.h"
 #include <Wire.h>
 #define BLYNK_PRINT Serial
