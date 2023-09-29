@@ -1,6 +1,6 @@
 # Pet_Feeder
 
-Proje, Mama kaplarının akıllı bir hale getirilmesi amaçlanarak tasarlanmıştır. Bunun için 
+   Proje, Mama kaplarının akıllı bir hale getirilmesi amaçlanarak tasarlanmıştır. Bunun için 
 mesafe sensörü, ağırlık sensörü ve bu ağırlık sensörü verilerine bağlı olarak çalışan bir servo 
 motor kullanılmıştır. 
 Mama kabının üst kısmında servo motor etkisiyle açılıp kapanan bir kapak ile alt kısımdan 
