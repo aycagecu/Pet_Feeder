@@ -16,3 +16,4 @@ Bulut Platformu kullanılarak değişiklikler izlenebilmektedir. Aynı zamanda
 Blynk Uygulamasında sanal pin aracılığıyla ağırlık değeri görüntülenebilmekte 
 ve servo motor kontrolü yapılabilmektedir.
 
+![image](https://github.com/aycagecu/Pet_Feeder/assets/83168297/4b87cfe1-6f98-4251-949b-f02bb0c45bd2)
